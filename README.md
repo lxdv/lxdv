@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently, being a Technical Lead @[Modelplace.AI](https://modelplace.ai) startup, develop a service that provides Plug & Play artificial intelligence solutions to democratize the development of AI-based applications.
+
+[Click here](https://lxdv.github.io/about) to get more information about me.
+
 <!--
 **lxdv/lxdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
