@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey 👋
 
-Currently, being a Technical Lead @[Modelplace.AI](https://modelplace.ai) startup, develop a service that provides Plug & Play artificial intelligence solutions to democratize the development of AI-based applications.
+With a background in Applied Mathematics and Computer Science, my journey has taken me to the development of AI-based solutions and services.
 
-[Click here](https://lxdv.github.io/about) to get more information about me.
+My experience working on CV consulting projects, which were highlighted at Apple WWDC, and the development of Plug & Play AI products has led me to create **Kopikat** — a tool designed to augment datasets using Generative AI. This enhances models, making them more robust and adaptive, particularly in hard-case scenarios.
 
 <!--
 **lxdv/lxdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
